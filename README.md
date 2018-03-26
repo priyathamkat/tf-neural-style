@@ -16,4 +16,4 @@ Please read `stylize.py` for additional options.
 ## Samples
 ![hoover-sn](images/hoover-sn.jpg "hoover-tower X seated-nude")
 ![gate-scream](images/gate-scream.jpg "golden-gate X scream")
-![fountaun-night](images/fountain-night.jpg "fountain X starry-night")
+![fountain-night](images/fountain-night.jpg "fountain X starry-night")
